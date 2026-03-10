@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "空洞空洞 - Kudou Kudou",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-10T13:15:15.793815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "空洞空洞",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_空洞空洞_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空洞空洞",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_空洞空洞_amazarashi.txt"
+    }
+  ]
+}
